@@ -6,4 +6,4 @@ This is a small learning project made using a course on [udemy](https://www.udem
 ## Assets
 * Starter Content from Unreal
 * Infinty Blade: Grass Lands pack
-
+* Army Rust Font from Jayde Garrow (free for personal use)
